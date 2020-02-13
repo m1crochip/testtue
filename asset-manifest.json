@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testtue/static/css/main.251e2bf9.chunk.css",
+    "main.css": "/testtue/static/css/main.92729aef.chunk.css",
     "main.js": "/testtue/static/js/main.de6dd88b.chunk.js",
     "main.js.map": "/testtue/static/js/main.de6dd88b.chunk.js.map",
     "runtime-main.js": "/testtue/static/js/runtime-main.1fd1a79a.js",
@@ -9,10 +9,10 @@
     "static/js/2.f5777666.chunk.js": "/testtue/static/js/2.f5777666.chunk.js",
     "static/js/2.f5777666.chunk.js.map": "/testtue/static/js/2.f5777666.chunk.js.map",
     "index.html": "/testtue/index.html",
-    "precache-manifest.fed29fbb3f4e12fcd97e65e5929bb988.js": "/testtue/precache-manifest.fed29fbb3f4e12fcd97e65e5929bb988.js",
+    "precache-manifest.9bf2027e263d088adba244031476fc1e.js": "/testtue/precache-manifest.9bf2027e263d088adba244031476fc1e.js",
     "service-worker.js": "/testtue/service-worker.js",
     "static/css/2.8f16da89.chunk.css.map": "/testtue/static/css/2.8f16da89.chunk.css.map",
-    "static/css/main.251e2bf9.chunk.css.map": "/testtue/static/css/main.251e2bf9.chunk.css.map",
+    "static/css/main.92729aef.chunk.css.map": "/testtue/static/css/main.92729aef.chunk.css.map",
     "static/js/2.f5777666.chunk.js.LICENSE.txt": "/testtue/static/js/2.f5777666.chunk.js.LICENSE.txt",
     "static/media/download.jpg": "/testtue/static/media/download.abc37022.jpg",
     "static/media/download1.jpg": "/testtue/static/media/download1.ff558db7.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.1fd1a79a.js",
     "static/css/2.8f16da89.chunk.css",
     "static/js/2.f5777666.chunk.js",
-    "static/css/main.251e2bf9.chunk.css",
+    "static/css/main.92729aef.chunk.css",
     "static/js/main.de6dd88b.chunk.js"
   ]
 }
